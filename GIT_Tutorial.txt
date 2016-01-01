@@ -4,6 +4,9 @@ CD into the folder from GIT bash and issue command : git init
 Adding all the changes
 git add .
 
+Adding only on file to the repo:
+git add "filename here"
+
 Adding commit
 git commit -m "Commit Message Here"
 
@@ -15,3 +18,7 @@ git log --author="Author Name Here(no full name needed)"
 
 Viewing the status of the project folder (meaning commit status and untracked files)
 git status
+
+
+Viewing the differences between workin gdirectory and repo:
+git diff
