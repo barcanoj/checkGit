@@ -40,3 +40,6 @@ git checkout -- "filename here"
 
 Unstaging a file
 git reset HEAD "filename here"
+
+Loading Old Version from Repo:
+git checkout --"the commit repo no" "the_name_of_the_file"
