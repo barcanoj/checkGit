@@ -1,0 +1,5 @@
+Initializing a project 
+CD into the folder from GIT bash and issue command : git init
+
+Adding all the changes
+git add .
