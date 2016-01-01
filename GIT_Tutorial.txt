@@ -37,3 +37,6 @@ git commit -am "Commit Message Here"
 
 Pulling the files from repository (meaning that are in good condition)
 git checkout -- "filename here"
+
+Unstaging a file
+git reset HEAD "filename here"
