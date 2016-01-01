@@ -43,3 +43,5 @@ git reset HEAD "filename here"
 
 Loading Old Version from Repo:
 git checkout "the commit repo no" -- "the_name_of_the_file"
+
+yo last line pani thapne ho ki
