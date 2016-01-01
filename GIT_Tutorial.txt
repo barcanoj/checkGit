@@ -3,3 +3,12 @@ CD into the folder from GIT bash and issue command : git init
 
 Adding all the changes
 git add .
+
+Adding commit
+git commit -m "Commit Message Here"
+
+Viewing Commit History
+git log
+
+Viewing commit of single author
+git log --author="Author Name Here(no full name needed)"
