@@ -24,3 +24,6 @@ git diff
 
 Viewing the differences between staging area and repo:
 git diff --staged
+
+Removing files from working directory
+git rm "filename here"
