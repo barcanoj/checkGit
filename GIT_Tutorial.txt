@@ -34,3 +34,6 @@ git mv "original file name" "renamed file name"
 
 Pushing commits directly to repo without staging them
 git commit -am "Commit Message Here"
+
+Pulling the files from repository (meaning that are in good condition)
+git checkout -- "filename here"
