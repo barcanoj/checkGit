@@ -12,3 +12,6 @@ git log
 
 Viewing commit of single author
 git log --author="Author Name Here(no full name needed)"
+
+Viewing the status of the project folder (meaning commit status and untracked files)
+git status
