@@ -19,6 +19,8 @@ git log --author="Author Name Here(no full name needed)"
 Viewing the status of the project folder (meaning commit status and untracked files)
 git status
 
-
 Viewing the differences between workin gdirectory and repo:
 git diff
+
+Viewing the differences between staging area and repo:
+git diff --staged
