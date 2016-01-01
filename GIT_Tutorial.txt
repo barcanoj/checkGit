@@ -4,7 +4,7 @@ CD into the folder from GIT bash and issue command : git init
 Adding all the changes
 git add .
 
-Adding only on file to the repo:
+Adding only one file to the repo:
 git add "filename here"
 
 Adding commit
@@ -31,3 +31,6 @@ Note: Always commit after deleting files...
 
 Renaming files in working directory
 git mv "original file name" "renamed file name"
+
+Pushing commits directly to repo without staging them
+git commit -am "Commit Message Here"
